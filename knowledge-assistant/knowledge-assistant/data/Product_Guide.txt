@@ -1,0 +1,34 @@
+[PAGE 1]
+PRODUCT GUIDE: ANTHRASYNC CLOUD SUITE
+Anthrasync Inc.
+
+1. Overview
+Anthrasync Cloud Suite is a productivity platform offering document storage,
+team collaboration, and task management tools for businesses of all sizes.
+
+2. Subscription Plans
+- Starter Plan: Up to 5 users, 50 GB storage, $10/user/month
+- Business Plan: Up to 50 users, 500 GB storage, $25/user/month
+- Enterprise Plan: Unlimited users, unlimited storage, custom pricing
+
+[PAGE 2]
+3. Key Features
+- Real-time document collaboration
+- Task boards with deadline tracking
+- Integration with email and calendar apps
+- Role-based access control for team members
+
+4. System Requirements
+The web application works on any modern browser (Chrome, Firefox, Edge, Safari).
+The desktop app is available for Windows 10+ and macOS 11+. A minimum of 4 GB
+RAM is recommended for smooth performance.
+
+[PAGE 3]
+5. Data Backup
+All user data is automatically backed up every 24 hours. Enterprise plan
+customers can request backup frequency as low as every 1 hour.
+
+6. Support
+Starter and Business plan customers receive email support with a 24-hour
+response time. Enterprise customers receive 24/7 priority support with a
+dedicated account manager.

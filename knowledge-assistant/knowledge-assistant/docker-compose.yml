@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  knowledge-assistant:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./:/app
+      - ./chroma_db:/app/chroma_db
+    environment:
+      - PYTHONUNBUFFERED=1

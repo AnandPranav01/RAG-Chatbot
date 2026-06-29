@@ -1,0 +1,34 @@
+[PAGE 1]
+IT SECURITY POLICY
+Anthrasync Inc.
+
+1. Purpose
+This policy defines the minimum security standards employees must follow when
+using company devices, accounts, and systems.
+
+2. Password Requirements
+All employee accounts must use passwords that are at least 12 characters long,
+containing a mix of uppercase letters, lowercase letters, numbers, and special
+characters. Passwords must be changed every 90 days.
+
+[PAGE 2]
+3. Multi-Factor Authentication (MFA)
+MFA is mandatory for all employees accessing company email, VPN, and internal
+tools. Employees who disable MFA without IT approval will have their access
+suspended.
+
+4. Device Security
+Company laptops must have disk encryption enabled at all times. Employees must
+not install unauthorized software or connect unapproved external storage devices
+to company systems.
+
+5. Data Handling
+Confidential company data must not be stored on personal devices or personal
+cloud storage accounts (e.g., personal Google Drive, Dropbox). All confidential
+data must be stored only in approved company systems.
+
+[PAGE 3]
+6. Incident Reporting
+Any suspected security incident, including phishing emails, lost devices, or
+unauthorized access, must be reported to the IT Security team within 1 hour
+of discovery via the incident reporting portal.
